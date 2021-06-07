@@ -83,7 +83,7 @@ class Node():
 (Please Watch The Video Links)
 
 __[Binary Tree/Binary Search Tree](https://youtu.be/D5SrAga1pno):__ (BSTs utilze `Nodes` at each individual point in the BST. Each `Node` has a `key` or `data` value, a `left` value, and a `right` value. The `left` and `right` values point to the `Node` to the left and right of them on the Tree. Binary Search Trees have an `insert`, `delete`, and `search` method)
-![BST Example](https://github.com/oscarplatoon/curriculum/blob/master/week-03/lecture-materials/bst.png)
+![BST Example](https://github.com/oscarplatoon/curriculum/blob/master/page-resources/bst.png)
 
 A classic problem for trees is how to traverse them — i.e., visit and process every node. There are four flavors of tree traversal:
 
@@ -109,7 +109,7 @@ def hash(self, string_value):
   # Step 1: Turn the string_value to a numeric value
   # Step 2: Divide the numberic value by the size of the Hash Table and return that value
 ```
-![Hash Visualization](https://github.com/oscarplatoon/curriculum/blob/master/week-03/lecture-materials/hash_visualization.png)
+![Hash Visualization](https://github.com/oscarplatoon/curriculum/blob/master/page-resources/hash_visualization.png)
 
 # Challenge
 
